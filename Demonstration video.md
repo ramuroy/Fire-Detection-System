@@ -10,4 +10,4 @@ This video showcases how the fire detection system works, including:
 ✅ Audible alarm with a buzzer  
 ✅ Automatic reset when air quality improves  
 
-Let me know your thoughts in the comments! 🚀🔥  
+Let me know your thoughts in the comments! 🚀🔥
